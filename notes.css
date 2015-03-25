@@ -1,0 +1,47 @@
+body {
+    background-color: #660000;
+    padding: 20px 10px;
+    font-family: Helvetica;
+    max-width: 2000px;
+    margin: .5em auto;
+    font-size: 1.6em;
+}                 
+
+h1 {
+    text-shadow: red 0 -2px;
+    font-size: 2.5em;
+    text-align: center;
+    color: #000000;
+}
+
+p {
+    margin: 10px 0;
+}
+
+li {
+    font-size: 1.2em;
+    line-height: 1em; 
+}
+
+.lesson {
+    background-color: #990000;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    margin: 20px auto;
+}
+
+h2 {
+    text-shadow: red 0 -2px;
+    margin: 10px;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.red-text-shadow {
+    text-shadow: black 0 -2px;
+}
+
+.indent1 {
+    text-indent: 50px;
+}
